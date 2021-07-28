@@ -1,0 +1,89 @@
+*{
+    margin: 0%;
+    font-family: sans-serif;
+    padding: 0%;
+}
+.header{
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+    height: 100px;
+}
+.banner{
+    background-color: darkgrey;
+    height: 400px;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+    background-color: darkslategray;
+    text-align: center;
+    height: 250px;
+    width: 50%;
+    float: left;
+}
+.right_content{
+    background-color: darkolivegreen;
+    text-align: center;
+    height: 250px;
+    width: 50%;
+    float: right;
+}
+.second_content{
+    overflow: hidden;
+}
+.long_content{
+    background-color: mediumorchid;
+    text-align: center;
+    height: 150px;
+    width: 70%;
+    float: left;
+}
+.short_content{
+    background-color: mediumpurple;
+    text-align: center;
+    height: 150px;
+    width: 30%;
+    float: right;
+}
+.client{
+    overflow: hidden;
+}
+.client01{
+    background-color: papayawhip;
+    text-align: center;
+    height: 50px;
+    width: 25%;
+    float: left;
+    
+}
+.client02{
+background-color: peachpuff;
+text-align: center;
+height: 50px;
+width: 25%;
+float: left;
+}
+.client03{
+background-color: plum;
+text-align: center;
+height: 50px;
+width: 25%;
+float: left;
+
+}
+.client04{
+background-color: powderblue;
+text-align: center;
+height: 50px;
+width: 25%;
+float: left;
+}
+footer{ 
+    background-color: rgb(136, 30, 30);
+    color: rgb(255, 204, 0);
+    text-align: center;
+    height: 100px;
+}
